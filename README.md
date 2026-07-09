@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Omar%20Ezzat%20&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Omar's Banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/omarudesuo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=AI+%26+Automation+Engineer;Systems+Infrastructure+Professional;Master+of+Data+Science+Candidate" alt="Typing Effect" />
+  </a>
+</p>
+
+---
+
 # Hi there, I'm Omar Ezzat Ali Afifi 👋
 
 An **AI Engineer, Data Scientist, and Automation Expert** passionate about building intelligent agents, optimizing data workflows, and engineering scalable digital platforms. Currently pursuing my **Master of Data Science at Cairo University** and working as an **E-learning Developer at The British University in Egypt**.
