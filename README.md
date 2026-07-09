@@ -4,51 +4,60 @@ An **AI Engineer, Data Scientist, and Automation Expert** passionate about build
 
 ---
 
-### 🚀 What I Do
-- **Artificial Intelligence**: Crafting AI agents, custom NLP pipelines, LLM applications, and computer vision models.
-- **Intelligent Automation**: Building end-to-end automated systems and custom integration workflows (n8n, CrewAI).
-- **Systems & Infrastructure**: Optimizing Linux/Windows server performance, managing ERP implementations, and network architecture.
+### 🚀 Core Expertise
+
+* 🖥️ **Systems & Infrastructure:** Designing, tuning, and maintaining high-availability Linux/Windows Server environments, network infrastructure, and enterprise ERP (Odoo) integrations.
+* 🎓 **LMS & E-Learning Architecture:** Full-cycle deployment, custom local-storage survey integrations, and performance optimization of high-traffic Moodle environments to ensure zero downtime during peak academic windows.
+* 🤖 **AI & Intelligent Automation:** Building multi-agent systems (CrewAI), building workflow orchestration engines (n8n), and designing custom NLP/Computer Vision pipelines.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Professional Tech Stack
 
-| Category | Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **AI & Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Automation & Agents** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) 🔥 **CrewAI** |
-| **Backend & Web** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Systems & Cloud** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white) |
+| **Infrastructure & SysAdmin** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![Moodle](https://img.shields.io/badge/Moodle-F39200?style=flat&logo=moodle&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white) ![Cisco CCNA](https://img.shields.io/badge/CCNA-049A3F?style=flat&logo=cisco&logoColor=white) ![MCSA](https://img.shields.io/badge/MCSA-0078D6?style=flat&logo=microsoft&logoColor=white) |
+| **AI, ML & Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| **Automation & Agentic AI** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat&logo=n8n&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-Grey?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LightBlue?style=flat) |
+| **Software & Web Dev** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361dafb) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
 
 ---
 
-### 📂 Featured Projects
+### 📂 Highlighted Projects
 
-#### 🤖 [AI Virtual Guide for Digital Twin Environments](https://github.com/omarudesuo)
-An intelligent AI agent built to guide users through simulated architectural compounds and 3D buildings, incorporating interactive voice/text navigation.
+#### 🖥️ Infrastructure & Systems Engineering
+* **LMS Environment Optimization (Moodle)**
+  * Optimized Linux and Windows Server backend performance for The British University in Egypt, mitigating high concurrent student loads and optimizing server memory allocation during intense academic exam periods. 
+  * Designed and injected a custom JavaScript/local-storage-based survey popup engine directly into the platform interface.
+* **Enterprise ERP Deployment & Customization**
+  * Directed the customization and functional rollout of Odoo ERP systems across complex organizational layers at Dar El Mona Healthcare, stripping down manual operational friction by 60%.
+* **Network & Security Infrastructures**
+  * Modernized hospital networks via tailored hardware expansions and surveillance system upgrades, systematically isolating bandwidth bottlenecks to drastically cut downtime.
 
-#### 📄 [Automated Talent Screening (ATS) System](https://github.com/omarudesuo)
-An end-to-end automation system powered by **n8n** that autonomously parses CVs, ranks candidate applications based on job context, and handles dynamic HR email responses. *Reduced manual workload by over 70%.*
-
-#### 📧 [Smart Email & Lead Classifier](https://github.com/omarudesuo)
-An automated inbox workflows system that performs NLP-driven sentiment analysis and categorization on incoming leads, feeding processed metrics directly into Google Sheets.
-
-#### 📈 [Stock Price Forecasting App](https://github.com/omarudesuo)
-A predictive financial model leveraging a stacked **LSTM (Long Short-Term Memory)** architecture to forecast historical stock market trends.
+#### 🤖 Data Science & Intelligent Automation
+* **AI Virtual Guide for Digital Twin Environments**
+  * Engineered an intelligent navigation agent providing conversational interaction and autonomous routing through 3D architectural renders and virtual compound maps.
+* **Autonomous Recruiter ATS & Email Automation Pipeline**
+  * Built an end-to-end multi-tier talent screening workflow using **n8n** that parses, ranks, and tracks candidates natively, slashing HR operational workload by over 70%.
+* **Predictive Stock Forecasting Model**
+  * Built a time-series forecasting engine leveraging stacked Long Short-Term Memory (**LSTM**) networks to capture financial micro-trends.
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarudesuo&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Omar's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarudesuo&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px"/>
-</p>
+⚡ Operational metrics & language telemetry tracking:
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=omarudesuo&show_icons=true&theme=visual_studio_code" alt="Omar's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarudesuo&layout=compact&theme=visual_studio_code" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ---
 
 ### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/omar-ezzat-ali-03b706286](https://www.linkedin.com/in/omar-ezzat-ali-03b706286)
-- 📧 **Email:** [omarezzatali38@gmail.com](mailto:omarezzatali38@gmail.com)
-- 🌍 **Location:** Cairo, Egypt
+* **LinkedIn:** [linkedin.com/in/omar-ezzat-ali-03b706286](https://www.linkedin.com/in/omar-ezzat-ali-03b706286)
+* **Email:** [omarezzatali38@gmail.com](mailto:omarezzatali38@gmail.com)
