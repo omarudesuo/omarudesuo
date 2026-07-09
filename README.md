@@ -51,4 +51,4 @@ A predictive financial model leveraging a stacked **LSTM (Long Short-Term Memory
 
 - 💼 **LinkedIn:** [linkedin.com/in/omar-ezzat-ali-03b706286](https://www.linkedin.com/in/omar-ezzat-ali-03b706286)
 - 📧 **Email:** [omarezzatali38@gmail.com](mailto:omarezzatali38@gmail.com)
-- 🌍 **Location:** Cairo, Egypt / Kuwait
+- 🌍 **Location:** Cairo, Egypt
