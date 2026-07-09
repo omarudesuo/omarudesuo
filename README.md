@@ -50,11 +50,10 @@ An **AI Engineer, Data Scientist, and Automation Expert** passionate about build
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=omarudesuo&show_icons=true&theme=visual_studio_code" alt="Omar's GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarudesuo&layout=compact&theme=visual_studio_code" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omarudesuo&show_icons=true&theme=visual_studio_code" alt="Omar's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omarudesuo&layout=compact&theme=visual_studio_code" alt="Top Languages" /></td>
   </tr>
 </table>
-
 ---
 
 ### 🤝 Connect with Me
